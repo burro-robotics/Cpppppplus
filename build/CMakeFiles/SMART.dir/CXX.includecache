@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Rules/rule_of_3.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+../include/Rules/rule_of_5.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+rule_of_3.h
+../include/Rules/rule_of_3.h
+
+/home/chun/Documents/Cpppplus/include/SmartPtr/smart_ptr_example.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+Rules/rule_of_5.h
+/home/chun/Documents/Cpppplus/include/SmartPtr/Rules/rule_of_5.h
+chrono
+-
+memory
+-
+

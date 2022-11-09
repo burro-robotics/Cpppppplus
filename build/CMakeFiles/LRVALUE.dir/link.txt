@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0   CMakeFiles/LRVALUE.dir/include/LRvalue/LRvalue.cpp.o  -o LRVALUE 

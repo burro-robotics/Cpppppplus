@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0   CMakeFiles/RULES.dir/include/Rules/rules.cpp.o  -o RULES  include/Rules/libRules.a 

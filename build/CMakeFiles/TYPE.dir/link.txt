@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0   CMakeFiles/TYPE.dir/include/TypeDeduction/type_deduction.cpp.o  -o TYPE 

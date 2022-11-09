@@ -1,0 +1,1 @@
+add_library(TypeD type_deduction.cpp)

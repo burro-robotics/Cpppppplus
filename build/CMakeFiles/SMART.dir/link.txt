@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0   CMakeFiles/SMART.dir/include/SmartPtr/smart_ptr_example.cpp.o  -o SMART  include/Rules/libRules.a 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chun/Documents/Cpppplus/include/TypeDeduction/type_deduction.cpp
+type_deduction.h
+/home/chun/Documents/Cpppplus/include/TypeDeduction/type_deduction.h
+
+/home/chun/Documents/Cpppplus/include/TypeDeduction/type_deduction.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

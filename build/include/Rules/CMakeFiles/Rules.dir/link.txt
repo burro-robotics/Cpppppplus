@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRules.a  CMakeFiles/Rules.dir/rule_of_5.cpp.o
+/usr/bin/ranlib libRules.a

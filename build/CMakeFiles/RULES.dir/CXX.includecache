@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chun/Documents/Cpppplus/include/Rules/rule_of_3.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/chun/Documents/Cpppplus/include/Rules/rule_of_5.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+rule_of_3.h
+/home/chun/Documents/Cpppplus/include/Rules/rule_of_3.h
+
+/home/chun/Documents/Cpppplus/include/Rules/rules.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+rule_of_5.h
+/home/chun/Documents/Cpppplus/include/Rules/rule_of_5.h
+rule_of_3.h
+/home/chun/Documents/Cpppplus/include/Rules/rule_of_3.h
+chrono
+-
+

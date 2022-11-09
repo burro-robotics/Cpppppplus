@@ -1,0 +1,1 @@
+add_library(Rules rule_of_5.cpp)
